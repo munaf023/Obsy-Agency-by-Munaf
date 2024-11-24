@@ -1,7 +1,8 @@
 # 🎨 Animated Web Page with Interactive Animations
 ## 📝 Project Overview
 This project is a visually dynamic web page designed to showcase creative animations, responsive design, and interactive elements. It combines sleek animations, custom fonts, and video backgrounds to deliver an engaging experience. Perfect for those looking to add flair to their websites or for learning modern web animation techniques.
- -- bash
+
+ [Live Link](https://obsy-agency-project.vercel.app/)
  
 ## 🚀 Features
 🌟 Custom Fonts: Unique typography to enhance visual appeal.  
@@ -23,17 +24,12 @@ HTML5: Markup and structure of the web page.
 CSS3: Styling and animations, including custom fonts and transitions.  
 
 JavaScript: Adds interactive animations and event handling. 
---bash
-/-project
-│
-├── index.html         # Main entry point
-├── style.css          # Global styles and animations
-├── assets/            # Media files (images, videos, etc.)
-│   └── video.mp4      # Video background file
-├── fonts/             # Custom font files
-│   └── custom-font.ttf
-├── images/            # Image assets
-│   └── background.jpg
-└── README.md          # Project documentation
 
--- bash
+🎨 How to Customize 
+
+Fonts: Update the fonts by replacing files in the fonts/ directory. Change font-family in style.css for different effects.  
+
+Color Scheme: Modify the colors in style.css to suit your brand or theme.
+
+Media: Update the background video or images in the assets/ and images/ folders to personalize the project.  
+
